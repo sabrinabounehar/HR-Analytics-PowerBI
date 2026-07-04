@@ -43,8 +43,4 @@ Les données utilisées proviennent d'un jeu de données public utilisé dans un
 
 Ce projet a été réalisé dans un objectif d'apprentissage et de démonstration de compétences sur Power BI.
 
----
 
-## Aperçu du tableau de bord
-
-![Dashboard RH](Images/Dashboard_RH.png)
